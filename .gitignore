@@ -1,0 +1,26 @@
+# Configurações locais (caminhos para microdados e resultados)
+config.R
+.env
+
+# Sessões e arquivos temporários do R / RStudio
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.Renviron
+
+# Resultados binários locais (CSV e figuras permanecem versionados)
+*.rds
+*.RDS
+
+# Microdados e bases intermediárias: não incluir no repositório
+*.parquet
+*.dta
+*.sas7bdat
+
+# Arquivos temporários e de sistema
+.DS_Store
+Thumbs.db
+~$*
+*.tmp
+*.log
