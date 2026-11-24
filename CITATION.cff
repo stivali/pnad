@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use these scripts in your research or data pipeline, please cite this repository as below."
+type: software
+title: "PNAD Contínua Microdata Processing and Longitudinal Panel Construction in R and Stata"
+authors:
+  - family-names: "Stivali"
+    given-names: "Matheus"
+    orcid: "https://orcid.org/0000-0002-7757-6433"
+repository-code: "https://github.com/stivali/pnad"
+url: "https://github.com/stivali/pnad"
+abstract: "R and Stata code for processing Brazil's Continuous National Household Sample Survey (PNAD Contínua) microdata, constructing longitudinal panels, and estimating labor market indicators."
+keywords:
+  - "PNAD Contínua"
+  - "Brazil"
+  - "household survey"
+  - "labor economics"
+  - "longitudinal data"
+  - "R"
+  - "Stata"
+license: MIT
+version: "1.0.0"
+date-released: "2026-11-22"
